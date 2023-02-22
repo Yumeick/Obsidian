@@ -15,3 +15,4 @@ for i in range(station):
 print("E(X)={:.3f}".format(EX))
 ```
 
+
